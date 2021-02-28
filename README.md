@@ -1,4 +1,4 @@
-# gettingandcleaning
+# Getting and Cleaning Data Project
 Repository for Course Project "Getting and Cleaning Data"
 
 This repository contains: R Script with the analysis performed, final tidy data set, codebook, and this readme file.
